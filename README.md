@@ -15,23 +15,30 @@ The goal is to identify optimization opportunities in shift planning and improve
 | Структура чел-час на обесп.маг   | Distribution of labor hours by staff role       |
 
 🧩 Key Tasks & Deliverables
+
 ✅ Data cleaning (merged cells, missing values, inconsistent formatting)
+
 📊 Hourly labor heatmaps by role and weekday
+
 🔁 Comparison of planned vs. actual staffing by hour
+
 💰 Salary analysis by position and total labor cost
+
 ⚠️ Identification of over/understaffing patterns
+
 📈 Suggestions for shift optimization based on staffing norms
 
 ⚙️ Tools & Technologies
 
-Excel – manual data entry, structure, and reporting
-(Optional) Python – could be used for automation if integrated data sources were available
+- Excel – manual data entry, structure, and reporting
+
+- (Optional) Python – could be used for automation if integrated data sources were available
 
 💡 Key Insights
-Significant understaffing during peak weekend hours
-Overstaffing observed on Monday mornings
-Trainee hours not properly accounted for in salary sheet
-Labor cost efficiency could improve by 10–15% via better shift planning
+- Significant understaffing during peak weekend hours
+- Overstaffing observed on Monday mornings
+- Trainee hours not properly accounted for in salary sheet
+- Labor cost efficiency could improve by 10–15% via better shift planning
 
 🚀 Next Steps (Optional)
 Automate staffing forecast using time series (Prophet or statsmodels)
